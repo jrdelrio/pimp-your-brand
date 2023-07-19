@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  width: 100vw; /*1440px*/
+  align-items: center;
+  padding-left: 0px;
+}
+
+/* colores */
+.black {color: var(--141414, #141414)}
+.rose {color: var(--f-56-ee-6, #F56EE6)}
+.orange {color: var(--ff-6900, #FF6900)}
+.yellow {color: var(--e-6-ff-73, #E6FF73)}
+.white {color:white}
+
+.section-aboutus p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+h2 {
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+h2 span,
+.planet-title {
+  font-family: 'Saira Extra Condensed', sans-serif;
+}

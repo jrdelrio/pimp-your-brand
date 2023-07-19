@@ -1,0 +1,10 @@
+.section-clients h2 {
+    text-transform: uppercase;
+    font-size: 4rem;
+}
+
+.clients-logos {
+    width: 80%;
+    color: red;
+    margin: auto;
+}

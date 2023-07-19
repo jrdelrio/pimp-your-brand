@@ -1,0 +1,79 @@
+
+
+.section-title {
+    align-items: center;
+    z-index: 90;
+} 
+
+.section-title h3 {
+    /* font-size: 56px; */
+    font-size: 28px;
+    font-weight: 800;
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+}
+.section-title h2 {
+    /* font-size: 140px; */
+    font-size: 70px;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+.section-title h2 {
+    /* font-size: 140px; */
+    font-size: 70px;
+    font-weight: 800;
+    line-height: 140px; /* 100% */
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    font-weight: 1800;
+}
+
+.sub-title {
+    width: 35%;
+    margin: auto;
+    margin-bottom: 50px;
+
+}
+.sub-title p {
+    /* font-size: 28px; */
+    font-size: 14px;
+}
+
+.sub-title button {
+    border-radius: 15px;
+    background: var(--141414, #141414);
+    
+    height: 80px;  /* todo a la mitad */
+    padding: 10px 60px;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    font-family: Tusker Grotesk;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 100% */
+    letter-spacing: 1.12px;
+    text-transform: uppercase;
+}
+
+/* seccion planetas */
+
+.section-planet {
+    font-size: 30px; /*140px*/
+    align-content: center;
+}
+.section-planet h2 {
+    display:inline-block
+}
+
+
+.planet {
+    margin: auto;
+    width: 300px; /* Adjust the width as desired */
+  height: 300px;
+  border-radius: 50%;
+    border: red 1px solid;
+}
+

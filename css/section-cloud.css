@@ -1,0 +1,35 @@
+.section-cloud * {
+    border: none;
+}
+
+.left-align {
+  text-align: left;
+  margin-left: 5%;  
+}
+
+.double-space {
+    padding-left: 10%;
+}
+
+.section-cloud button {
+    border-radius: 15px;
+    background: var(--141414, #141414);
+    
+    height: 40px;  /* todo a la mitad */
+    padding: 5px 30px;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    /* font-size: 28px; */
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 100% */
+    letter-spacing: 1.12px;
+    text-transform: uppercase;
+}
+
+.section-cloud {
+    padding-bottom: 100px
+}

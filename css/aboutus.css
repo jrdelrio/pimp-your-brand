@@ -1,0 +1,18 @@
+.card-aboutus * {
+    border: none;
+}
+
+.card-aboutus {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.aboutus1 {
+    display: flex;
+    justify-content: center;
+    gap: 100px
+}
+
+.client-logo {
+    width: 40%;
+    justify-content: center;
+}
