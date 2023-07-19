@@ -5,20 +5,25 @@
     text-transform: uppercase;
     font-weight: bold;
     padding-left: 20px;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
 }
 
 .footer-button {
     border-radius: 15px;
     background-color: #141414;
     color: #E6FF73;
-    height: 40px;  /* todo a la mitad */
     padding: 5px 30px;
     /* font-size: 28px; */
-    font-size: 14px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 700;
     line-height: 28px; /* 100% */
     letter-spacing: 1.12px;
     text-transform: uppercase;
     border: none;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    padding: 10px 40px;
+
 }

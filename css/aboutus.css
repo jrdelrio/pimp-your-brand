@@ -16,3 +16,21 @@
     width: 40%;
     justify-content: center;
 }
+
+.aboutus-div * {
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+.aboutus-div h5 {
+    margin-bottom: 0px;
+}
+
+.aboutus-div p {
+    margin-top: -10px;
+    text-transform: uppercase;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+  border: 10px solid white;
+}

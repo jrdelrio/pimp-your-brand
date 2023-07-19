@@ -1,5 +1,10 @@
 .section-cloud * {
-    border: none;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 90px;
+    font-weight: 800;
+    margin-top: 0px;
+
 }
 
 .left-align {
@@ -13,23 +18,18 @@
 
 .section-cloud button {
     border-radius: 15px;
-    background: var(--141414, #141414);
-    
-    height: 40px;  /* todo a la mitad */
-    padding: 5px 30px;
-    justify-content: center;
-    align-items: center;
-
-    text-align: center;
-    /* font-size: 28px; */
-    font-size: 14px;
+    background: #141414;
     font-style: normal;
     font-weight: 700;
     line-height: 28px; /* 100% */
     letter-spacing: 1.12px;
     text-transform: uppercase;
+    border: none;
+    align-self: flex-end;
+    margin-right: 100px;
 }
 
 .section-cloud {
-    padding-bottom: 100px
+    padding-bottom: 100px;
+    justify-content: flex-end;
 }
