@@ -1,6 +1,8 @@
-.section-clients h2 {
+.section-clients-title h2 {
     text-transform: uppercase;
-    font-size: 4rem;
+    font-size: 12vw; 
+    margin-bottom: 0px;
+    font-weight: 800;
 }
 
 .clients-logos {
@@ -8,3 +10,4 @@
     color: red;
     margin: auto;
 }
+

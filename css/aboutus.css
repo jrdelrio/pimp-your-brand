@@ -31,12 +31,14 @@
     width: 100%;
 }
 
-.card-body p {
+.team-member-card {
     margin-top: -10px;
     text-transform: uppercase;
-    line-height: 90%;
+    line-height: 110%;
     font-weight: 800;
 }
+
+.team-member-
 
 .rounded-circle {
     border-radius: 50%;
