@@ -1,10 +1,28 @@
-.section-clients h2 {
+.section-clients-title h2 {
     text-transform: uppercase;
-    font-size: 4rem;
+    font-size: 12vw; 
+    margin-bottom: 0px;
+    font-weight: 800;
 }
 
 .clients-logos {
     width: 80%;
     color: red;
     margin: auto;
+}
+
+@media screen and (max-width: 766px) {
+    .div-client {
+        width: 20%;
+        margin-bottom: 30px;
+    }
+    .div-client img {
+        max-height: 100px;
+    }
+}
+
+@media screen and (max-width: 766px) {
+    .row-clients-2 {
+        margin-top: 0px;
+    }
 }
