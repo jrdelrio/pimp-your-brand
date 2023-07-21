@@ -1,5 +1,10 @@
-.card-aboutus * {
-    border: none;
+.section-aboutus h2 {
+    font-size: 15vw;
+    text-transform: uppercase;
+    font-weight: 800;
+    line-height: 80%;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    margin-bottom: 20px;
 }
 
 .card-aboutus {
@@ -21,13 +26,16 @@
     font-family: 'Saira Extra Condensed', sans-serif;
 }
 
-.aboutus-div h5 {
-    margin-bottom: 0px;
+.card-body h5 {
+    text-transform: uppercase;
+    width: 100%;
 }
 
-.aboutus-div p {
+.card-body p {
     margin-top: -10px;
     text-transform: uppercase;
+    line-height: 90%;
+    font-weight: 800;
 }
 
 .rounded-circle {
