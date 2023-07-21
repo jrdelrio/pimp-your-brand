@@ -11,3 +11,18 @@
     margin: auto;
 }
 
+@media screen and (max-width: 766px) {
+    .div-client {
+        width: 20%;
+        margin-bottom: 30px;
+    }
+    .div-client img {
+        max-height: 100px;
+    }
+}
+
+@media screen and (max-width: 766px) {
+    .row-clients-2 {
+        margin-top: 0px;
+    }
+}

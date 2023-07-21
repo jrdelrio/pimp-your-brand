@@ -44,3 +44,12 @@
     border-radius: 50%;
   border: 10px solid white;
 }
+
+@media screen and (max-width: 766px) {
+    .aboutus1 {
+        margin-bottom: 80px;
+    }
+    .div-client img {
+        max-height: 100px;
+    }
+}

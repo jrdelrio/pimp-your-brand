@@ -21,8 +21,16 @@
   margin: auto;
 }
 
+@media screen and (min-width: 766px) {
+  #planet-1 {margin-right: 20px;}
+  #planet-2 {margin-left: 20px;}
+  #planet-3 {margin-right: 20px;}
+  #planet-4 {margin-right: 10px; margin-left: 10px;}
+  #planet-5 {margin-left: 20px;}
+}
+
 .planet-title {
-font-size: 30px;
+  font-size: 30px;
 }
 
 .planet-description {
@@ -79,3 +87,4 @@ font-size: 30px;
 .planet-back {
   transform: rotateY(180deg);
 }
+
